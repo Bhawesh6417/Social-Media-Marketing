@@ -37,7 +37,7 @@ A web application built with **Streamlit** that allows users to:
 
 ## 📎 Live Portfolio
 View the live portfolio:  
-👉 [https://yourusername.github.io/social-media-portfolio/](https://yourusername.github.io/social-media-portfolio/) *(replace with your actual GitHub Pages link)*
+👉 [https://yourusername.github.io/social-media-portfolio/](https://github.com/Bhawesh6417) *(replace with your actual GitHub Pages link)*
 
 ---
 
